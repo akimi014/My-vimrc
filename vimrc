@@ -1,3 +1,7 @@
+" Credits: zDragonSK
+" Edit: akimi014
+" Feito para uso em python(ou mais Linguagens)
+
 " Plugs
 call plug#begin('~/.vim/plugged')
 " TEMA
